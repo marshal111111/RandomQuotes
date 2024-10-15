@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/marshal10/random-quote-generator.git
+git clone https://github.com/marshalpatel10/RandomQuotes.github.io.git
 Navigate to the project folder:
 
 bash
